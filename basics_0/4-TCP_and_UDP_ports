@@ -1,4 +1,4 @@
 
 #!/usr/bin/env bash
-# Show the listening sockets
+# Display listening TCP and UDP sockets with process information
 netstat -lntup
