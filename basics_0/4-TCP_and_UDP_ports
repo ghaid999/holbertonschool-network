@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
-#show the lesting sockets
+# Show the listening sockets
 netstat -lpn
